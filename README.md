@@ -1,11 +1,4 @@
-# 👋 Hi, I'm Kevin Chauhan
 
-I'm an aspiring Data Analyst currently building my skills in:
-
-- 📊 Excel & Power BI
-- 🐍 Python (Pandas, NumPy, Seaborn)
-- 🧠 SQL for data extraction
-- 📈 Telling stories through dashboards & visualizations
 <h1 align="center">Hi, I'm Kevin 👋</h1>
 <p align="center">Aspiring Data Analyst | Python • SQL • Power BI • Excel | Design-Oriented Thinker</p>
 
