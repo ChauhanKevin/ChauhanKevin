@@ -1,0 +1,7 @@
+﻿Order ID,Region,Product,Category,Sales (£),Quantity,Supplier
+1001,North,Laptop,Technology,1200,2,TechCorp
+1004,West,Desk,Furniture,920,2,"	fficeMate"
+1002,South,Chair,Furniture,850,5,"	OfficeMate"
+1003,East,Monitor,Technology,600,3,"	OiceMate"
+1006,South,Table,Furniture,500,4,TechCorp
+1005,North,Mouse,Technology,150,10,TechCrp
