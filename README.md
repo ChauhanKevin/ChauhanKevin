@@ -20,14 +20,6 @@
 | SQL (MySQL, PostgreSQL) | Tableau (learning)   | UI/UX Design Thinking |
 
 ---
-
-### 📈 Featured Projects
-
-- 🔹 [Day 5: Sales Analysis – Python, Pandas, Seaborn](link-to-notebook-or-repo)
-- 🔹 [Power BI Dashboard: Superstore Sales](link-to-powerbi-dashboard)
-- 🔹 [Excel Dashboard: Monthly Revenue Report](link-to-excel-or-video)
-
----
 ---
 
 🌱 I'm currently working on projects using real-world datasets 
